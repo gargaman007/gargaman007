@@ -6,6 +6,8 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gargaman007.gargaman007)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargaman007&show_icons=true&theme=radical)
+
 
 ---
 
@@ -101,4 +103,3 @@ Docker, AWS, Git, Redis, SQLAlchemy
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and projects below.*
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gargaman007.gargaman007)
