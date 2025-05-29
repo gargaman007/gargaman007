@@ -4,6 +4,9 @@
 📍 India | 📫 gargaman0007@gmail.com |
 🌐 [LinkedIn](https://www.linkedin.com/in/aman-garg-914506237/) • [Kaggle](https://www.kaggle.com/amangarg2299/code) • [GitHub](https://github.com/gargaman007)
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gargaman007.gargaman007)
+
 ---
 
 ## 🚀 About Me
@@ -98,3 +101,4 @@ Docker, AWS, Git, Redis, SQLAlchemy
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and projects below.*
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gargaman007.gargaman007)
