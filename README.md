@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aman Garg
 
 🎓 **Data Science & AI Enthusiast | Developer | Analyst**  
-📍 India | 📫 gargaman0007@gmail.com | 📞 +91 9050622299  
+📍 India | 📫 gargaman0007@gmail.com |
 🌐 [LinkedIn](https://www.linkedin.com/in/aman-garg-914506237/) • [Kaggle](https://www.kaggle.com/amangarg2299/code) • [GitHub](https://github.com/gargaman007)
 
 ---
