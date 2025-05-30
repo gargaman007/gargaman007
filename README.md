@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aman Garg
-
+** Looking for Opportunities **
 🎓 **Data Science & AI Enthusiast | Developer | Analyst**  
 📍 India | 📫 gargaman0007@gmail.com |
 🌐 [LinkedIn](https://www.linkedin.com/in/aman-garg-914506237/) • [Kaggle](https://www.kaggle.com/amangarg2299/code) • [GitHub](https://github.com/gargaman007)
